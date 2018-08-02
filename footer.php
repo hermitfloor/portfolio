@@ -1,16 +1,11 @@
-﻿</div></div>
+﻿</div></main><footer>
+  &copy; 2018 JSY Law 
 
+ </footer>
 
-<div class="icons"><span class="icon-btn"><a href="#">羅</a></span>
-  <div class="icon-bar"> 
-  <a href="http://twitter.com/yiu"><i class="fab fa-twitter"></i></a> 
-  <a href="http://instagram.com/hoboprince"><i class="fab fa-instagram"></i></a> 
-  <a href="http://github.com/hoboprince"><i class="fab fa-github-alt"></i></a>
-  <a href="http://facebook.com/lawsyjun"><i class="fab fa-facebook-f"></i></a> 
-    <a href="http://princeyiu.tumblr.com"><i class="fab fa-tumblr"></i></a>
-  </div></div>
+<a href="#top" title="Top" onclick="test('top'); return false;"><img class="btn" src="/img/law.png"></a>
+ 
 
-
-
-</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="yay.js"></script>  </body>
 </html>
