@@ -5,7 +5,7 @@
 <div id="info"> 
  <div id="about">
 <div id="aboutText"> 
-<p>Hello! I'm Jen and I've lived on the Web since my father got our very first computer with a giant CRT monitor that I could never lift.</p>
+<p>Hello&#33; I'm Jen and I've lived on the Web since my father got our very first computer with a giant CRT monitor that I could never lift.</p>
 <p>I've been designing websites as a hobby since 2001, making clunky and garish layouts that were popular at the time using free hosting sites such as Geocities and Freewebs.<br /> Years later, 
 I have continued to learn and develop personal sites and editing themes on blog sites.</p>
 <p>I originally came from an art background so I have an extensive interest in many branches such as Illustration, Graphic Design, Animation, Tattoo Work, Sculpture, Toy Customization and Photography. </p>
