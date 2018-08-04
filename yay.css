@@ -1,5 +1,5 @@
 html,body {
-  font-family: 'Lora', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size:18px;
   line-height:1.5;
   word-spacing:3px;
@@ -48,6 +48,7 @@ h1 {
   letter-spacing: 10px;  
   font-family: 'Roboto',sans-serif;
   font-size: 70px;
+  font-weight:400;
   color: #b0b4bd;
   margin: 5px;
   padding: 15px;
@@ -75,26 +76,32 @@ nav {
   position:fixed;
   bottom:0px;
   width:100%;
-  height:100px;
+  height:auto;
   display:block;
   padding:0px;
   margin:0px;
   z-index:2;
+  text-align:center;
 }
 #menu {
   font-family:'Roboto',sans-serif;
   font-size:50px;
+  font-weight:300;
   letter-spacing:5px;
   word-spacing:20px;
-  text-align:center;
-  margin:10px;
-  padding:5px;
+  padding:15px;
+  margin:0;
   z-index:2;
+  height:auto;
 }
 footer {
-  position:fixed;
-  text-align:center;
-  margin-bottom:60px;
+  font-family:'Roboto',sans-serif;
+  font-size:14px;
+  font-weight:300;
+  letter-spacing:2px;
+  color: #fff;
+  padding:2px;
+  background-color: #c9c9c9;
 }
 
 /* NAME LOGO */
@@ -107,12 +114,20 @@ footer {
   position:fixed;
   display:inline-block; 
   -webkit-transition: all 0.5s ease;
-  transition: all 0.5s ease;
+  transition: all 0.5s ease;  
 }
 #logo:hover {
   border:1px solid #fff;
   border-radius: 5px;
   color:#fae8f1;
+}
+#title {  
+  font-size:50px;
+  color: #aaa;
+  font-family:'Raleway',sans-serif;
+  font-weight:600;
+  text-align:center;
+  letter-spacing:10px;
 }
 
 /* INTRO */
@@ -122,13 +137,7 @@ footer {
   max-width:800px;
   height:100%;  
 }
-#title {  
-  font-size:50px;
-  color: #aaa;
-  font-family:'Karla',sans-serif;
-  text-align:center;
-  letter-spacing:10px;
-}
+
 .button {
   display:inline-block;
   font-family:'Karla','sans-serif';
@@ -174,6 +183,7 @@ footer {
   text-align:center;
 }
 #aboutText {
+  font-family:'Lora',sans-serif;
   border: 1px solid #fff; 
   font-size:18px;
   padding:20px; 
@@ -293,3 +303,4 @@ footer {
   border:1px solid #fff;
   border-radius: 5px;
 }
+
